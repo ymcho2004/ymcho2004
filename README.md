@@ -22,7 +22,7 @@
   - Handled Frontend, Backend, and Database (MySQL) architecture.
 * **[guess_lotto_num](https://github.com/ymcho2004/guess_lotto.git)**
   - Deep learning project based on 'Fundamentals of Data Analysis'.
-  - Implementation of web crawling and PyTorch-based model training.
+  - Implementation of web crawling and TensorFlow-based model training.
 
 ### 🛠 Tech Stack
 <p>
@@ -34,4 +34,4 @@
 </p>
 
 ### 📈 GitHub Statistics
-![Youngmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymcho2004&show_icons=true&theme=radical&hide_border=true)
+![Youngmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymcho2004&show_icons=true&theme=radical)
